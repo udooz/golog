@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"github.com/udooz/golog"
+	"github.com/udooz/golog/internal/server"
 )
 
 func main() {
